@@ -1,2 +1,2 @@
-# MMEA-SaGE
-A Self-Adaptive Grid Exploration-based Algorithm for Multimodal Multiobjective Optimization
+# MMEA-GSaE
+A Grid Self-Adaptive Exploration-based Algorithm for Multimodal Multiobjective Optimization
